@@ -1,12 +1,6 @@
 E:\Repos\Visual Studio\translators-stack-automat\Stack-Automat\Stack-Automat\bin\Debug\SyntaxAnalysisWithSymbolTableWPF.exe.config
 E:\Repos\Visual Studio\translators-stack-automat\Stack-Automat\Stack-Automat\bin\Debug\SyntaxAnalysisWithSymbolTableWPF.exe
 E:\Repos\Visual Studio\translators-stack-automat\Stack-Automat\Stack-Automat\bin\Debug\SyntaxAnalysisWithSymbolTableWPF.pdb
-E:\Repos\Visual Studio\translators-stack-automat\Stack-Automat\Stack-Automat\bin\Debug\ExcelDataReader.DataSet.dll
-E:\Repos\Visual Studio\translators-stack-automat\Stack-Automat\Stack-Automat\bin\Debug\ExcelDataReader.dll
-E:\Repos\Visual Studio\translators-stack-automat\Stack-Automat\Stack-Automat\bin\Debug\ExcelDataReader.pdb
-E:\Repos\Visual Studio\translators-stack-automat\Stack-Automat\Stack-Automat\bin\Debug\ExcelDataReader.xml
-E:\Repos\Visual Studio\translators-stack-automat\Stack-Automat\Stack-Automat\bin\Debug\ExcelDataReader.DataSet.pdb
-E:\Repos\Visual Studio\translators-stack-automat\Stack-Automat\Stack-Automat\bin\Debug\ExcelDataReader.DataSet.xml
 E:\Repos\Visual Studio\translators-stack-automat\Stack-Automat\Stack-Automat\obj\Debug\Stack-Automat.csprojAssemblyReference.cache
 E:\Repos\Visual Studio\translators-stack-automat\Stack-Automat\Stack-Automat\obj\Debug\Stack-Automat.csproj.ResolveComReference.cache
 E:\Repos\Visual Studio\translators-stack-automat\Stack-Automat\Stack-Automat\obj\Debug\MainWindow.g.cs
@@ -18,6 +12,5 @@ E:\Repos\Visual Studio\translators-stack-automat\Stack-Automat\Stack-Automat\obj
 E:\Repos\Visual Studio\translators-stack-automat\Stack-Automat\Stack-Automat\obj\Debug\SyntaxAnalysisWithSymbolTableWPF.Properties.Resources.resources
 E:\Repos\Visual Studio\translators-stack-automat\Stack-Automat\Stack-Automat\obj\Debug\Stack-Automat.csproj.GenerateResource.cache
 E:\Repos\Visual Studio\translators-stack-automat\Stack-Automat\Stack-Automat\obj\Debug\Stack-Automat.csproj.CoreCompileInputs.cache
-E:\Repos\Visual Studio\translators-stack-automat\Stack-Automat\Stack-Automat\obj\Debug\Stack-Automat.csproj.CopyComplete
 E:\Repos\Visual Studio\translators-stack-automat\Stack-Automat\Stack-Automat\obj\Debug\SyntaxAnalysisWithSymbolTableWPF.exe
 E:\Repos\Visual Studio\translators-stack-automat\Stack-Automat\Stack-Automat\obj\Debug\SyntaxAnalysisWithSymbolTableWPF.pdb
