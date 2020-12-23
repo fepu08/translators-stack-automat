@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30330.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stack-Automat", "Stack-Automat\Stack-Automat.csproj", "{1F7D32C2-1EFF-4C53-85DD-7B0C7E1DBF8E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{24848A75-9C8F-404C-94BA-2825B8A0A7E5}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+		SyntaxAnalysisWithSymbolTableWPF\bin\Debug\SymbolTableSource.csv = SyntaxAnalysisWithSymbolTableWPF\bin\Debug\SymbolTableSource.csv
+		SyntaxAnalysisWithSymbolTableWPF\bin\Debug\SymbolTableSource.xlsx = SyntaxAnalysisWithSymbolTableWPF\bin\Debug\SymbolTableSource.xlsx
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F7D32C2-1EFF-4C53-85DD-7B0C7E1DBF8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F7D32C2-1EFF-4C53-85DD-7B0C7E1DBF8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F7D32C2-1EFF-4C53-85DD-7B0C7E1DBF8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F7D32C2-1EFF-4C53-85DD-7B0C7E1DBF8E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7B353EB5-9430-4C63-B3E2-45A6721B1C64}
+	EndGlobalSection
+EndGlobal
